@@ -6,7 +6,9 @@
 
 timeit模块可以用来测试一小段Python代码的执行速度。
 
-`class timeit.Timer(stmt='pass', setup='pass', timer=<timer function>)`
+```python
+class timeit.Timer(stmt='pass', setup='pass', timer=<timer function>)
+```
 
 Timer是测量小段代码执行速度的类。
 stmt参数是要测试的代码语句（statment）；
