@@ -1,5 +1,4 @@
-# PythonListAnalyse
-Python列表类型性能测试以及内置字典操作的时间复杂度
+# Python列表类型性能测试以及内置列表和字典操作的时间复杂度
 
 
 ### timeit模块
